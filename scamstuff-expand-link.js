@@ -1,4 +1,4 @@
-let tab3 = ss.getSheetByName("Published: ScamStuff");
+let tab3 = ss.getSheetByName("Published: Scam Stuff");
 
 // ░░░░░░░░░▓ FUNCTION THAT GETS CALLED FROM THE MENU ITEM
 function expandScamStuffLink() {
